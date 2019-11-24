@@ -1,6 +1,6 @@
 ## Bancos do Brasil
 
-Olá, me chamo **Lucas Ponciano**, sou UI-UX Designer e estou disponibilizando gratuitamente os logotipos de todas as instituições financeiras operantes no Brasil cadastradas no **Banco Central até Junho de 2018**.
+Olá, me chamo **Lucas Ponciano**, sou UI-UX Designer e estou disponibilizando gratuitamente os logotipos de todas as instituições financeiras operantes no Brasil cadastradas no **Banco Central até Junho de 2019**.
 
 As imagens são quadradas e estão disponíveis em dois tamanhos:
 - 64px
